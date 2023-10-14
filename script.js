@@ -1,3 +1,4 @@
+// Scripts and functions on this page are the creation of 0xR3TR0. All rights reserved.
 const container = document.querySelector(".container"),
 refreshBtn = document.querySelector(".refresh-btn");
 
